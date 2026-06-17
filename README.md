@@ -1,0 +1,1 @@
+This is a file to test different models out of the box and also to test hyperparameter tuning with optuna. The pipilens are built so preprocessing is done in one flow. Churn rate of the customers was inferenced and a data drift was explored. Then the research of the problem was done and the solution was found. 
